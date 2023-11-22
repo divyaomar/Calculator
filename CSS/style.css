@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&family=Roboto:wght@400;500&display=swap');
+html, body{
+    height: 100%;
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+}
+.button{
+    padding: 20px;
+    width: 66px;
+    margin: 0 3px;
+    /* border: 3px solid black; */
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: bold;
+}
+.row{
+    margin: 8px 0;
+}
+.row1{
+    margin: 8px 0;
+}
+.row1 button{
+    background-color: black;
+    color: white;
+    
+}
+#btn1{
+    background-color: rgb(146, 146, 6);
+    border: none;
+    
+}
+#btn2{
+    background-color: rgb(146, 146, 6);
+    border: none;
+}
+#btn3{
+    background-color: rgb(146, 146, 6);
+    border: none;
+}
+#btn4{
+    background-color: rgb(146, 146, 6);
+    border: none;
+}
+.row input{
+    width: 295px;
+    padding: 10px 2px;
+    border: 3px solid black;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.button:hover{
+    background-color: rgb(224, 221, 221);
+}
